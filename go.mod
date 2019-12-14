@@ -1,3 +1,3 @@
-module github.com/BTBurke/mod
+module github.com/BTBurke/mod/v2
 
 go 1.13

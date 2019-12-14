@@ -1,5 +1,5 @@
 package mod
 
 func Version() string {
-	return "v2"
+	return "v1"
 }
